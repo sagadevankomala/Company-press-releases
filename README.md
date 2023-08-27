@@ -1,6 +1,6 @@
 # Company-press-releases
-Explore a rich Company Press Release Dataset containing 1555 .JSON records from major entities like ANZ, Air NZ, Fonterra, and F&amp;P Healthcare (Jan 2018-Aug 2023). Includes headlines, hyperlinks, stock data. Unlock market-news dynamics with 7 features. Ideal for ML insights.
-The Company Press Release Dataset presents a valuable repository of company press releases from four prominent entities: Air New Zealand Ltd, Australia and New Zealand Banking Group Ltd (ANZ), Fonterra Co-operative Group Ltd, and Fisher & Paykel Healthcare Ltd. Spanning the extensive period from January 2018 to August 2023, this dataset comprises a total of 1555 records, each meticulously compiled in .JSON format.
+Explore a rich Company Press Release Dataset containing 1555 .JSON records from major entities like ANZ, Air NZ, Fonterra, and Fisher &amp;Paykel Healthcare (Jan 2018-Aug 2023). Includes headlines, hyperlinks, stock data. Unlock market-news dynamics with 7 features. Ideal for ML insights.
+The Company Press Release Dataset presents a valuable repository of company press releases from four prominent entities: Air New Zealand Ltd, Australia and New Zealand Banking Group Ltd , Fonterra Co-operative Group Ltd, and Fisher & Paykel Healthcare Ltd. Spanning the extensive period from January 2018 to August 2023, this dataset comprises a total of 1555 records, each meticulously compiled in .JSON format.
 
 Within this dataset, individual entities are represented by their respective press release volumes:
 - ANZ Bank stands out with 853 press release records.
